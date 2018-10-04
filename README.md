@@ -1,1 +1,3 @@
 # BlackJack
+
+ScalaでBlaclJackを作ってみてます。
